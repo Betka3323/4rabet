@@ -1,0 +1,1065 @@
+{
+  "site": {
+    "id": "1b1337b1-21d5-48bf-96c0-581a59b1dc43",
+    "name": "4RABET",
+    "slug": "4rabet",
+    "domain": null,
+    "status": "ACTIVE",
+    "language": "en",
+    "tags": [],
+    "basePath": ""
+  },
+  "blocks": [
+    {
+      "id": "block-1766518803515-ntb539xvy",
+      "order": 0,
+      "content": {
+        "bonus": "bonus_2",
+        "title": "Win Big with 4RABET!<br>Your Ultimate Betting & Casino Adventure",
+        "navLinks": [
+          {
+            "url": "#block-1766521666285-xsxoy2khs",
+            "label": "Info Table"
+          },
+          {
+            "url": "#block-1766521707951-92kr2hxku",
+            "label": "FAQ"
+          },
+          {
+            "url": "#block-1766521744468-ha87333rw",
+            "label": "Tabs Section"
+          }
+        ],
+        "description": "Dive into the world of 4rabet, where thrilling sports betting meets an expansive online casino experience. Bet on your favorite sports, including cricket and football, or explore over 3000 casino games from top providers. Enjoy generous bonuses, fast payouts, and 24/7 support, making every moment exciting and rewarding."
+      },
+      "typeSlug": "hero"
+    },
+    {
+      "id": "block-1766521530166-blouwor87",
+      "order": 1,
+      "content": {
+        "bonus": "bonus_2",
+        "ctaText": "Join Now and Claim Your Bonus."
+      },
+      "typeSlug": "cta"
+    },
+    {
+      "id": "block-1766521600956-whothwa3e",
+      "order": 2,
+      "content": {
+        "bonus": "bonus_2",
+        "ctaText": "ACTIVATE PROMO CODE"
+      },
+      "typeSlug": "promocode"
+    },
+    {
+      "id": "block-1766521632177-bgra48uyc",
+      "order": 3,
+      "content": {
+        "bonus": "bonus_1",
+        "ctaText": "ACTIVATE PROMO",
+        "variant": "grid"
+      },
+      "typeSlug": "promocode"
+    },
+    {
+      "id": "block-1766521645364-7ekby39sc",
+      "order": 4,
+      "content": {
+        "title": "Unlock Exciting Bonuses Today!",
+        "ctaText": "Join the Action Now!",
+        "description": "Добро пожаловать в мир бонусов от 4rabet! Здесь вас ждут щедрые предложения, которые сделают вашу игру еще более захватывающей. Начните с приветственного бонуса до 125,000 INR на первые четыре депозита. Не забывайте про еженедельные турниры и акции, а также кэшбэк до 10%. Независимо от того, предпочитаете ли вы спортивные ставки или азартные игры, у нас есть что-то особенное для каждого. Присоединяйтесь и наслаждайтесь игрой с дополнительными возможностями!",
+        "bottomCardText": "Приветственный бонус Начните с приятного!"
+      },
+      "typeSlug": "bonus"
+    },
+    {
+      "id": "block-1766521666285-xsxoy2khs",
+      "order": 5,
+      "content": {
+        "rows": [
+          {
+            "label": "Foundation Date",
+            "value": "2018",
+            "isLink": false,
+            "linkUrl": ""
+          },
+          {
+            "label": "Owner",
+            "value": "4rabet",
+            "isLink": false,
+            "linkUrl": ""
+          },
+          {
+            "label": "License",
+            "value": "Curacao",
+            "isLink": false,
+            "linkUrl": ""
+          },
+          {
+            "label": "Languages",
+            "value": "Hindi, English",
+            "isLink": false,
+            "linkUrl": ""
+          },
+          {
+            "label": "Website URL",
+            "value": "4rabet.com",
+            "isLink": true,
+            "linkUrl": "https://4rabet.com"
+          },
+          {
+            "label": "Services",
+            "value": "Sports Betting, Online Casino, Live Casino",
+            "isLink": false,
+            "linkUrl": ""
+          },
+          {
+            "label": "Accepted Currencies",
+            "value": "INR, Cryptocurrency",
+            "isLink": false,
+            "linkUrl": ""
+          },
+          {
+            "label": "Payment Methods",
+            "value": "Bank Transfer, UPI, Cryptocurrency, Credit/Debit Cards",
+            "isLink": false,
+            "linkUrl": ""
+          },
+          {
+            "label": "Minimum Deposit",
+            "value": "300 INR",
+            "isLink": false,
+            "linkUrl": ""
+          },
+          {
+            "label": "Minimum Withdrawal",
+            "value": "1000 INR",
+            "isLink": false,
+            "linkUrl": ""
+          },
+          {
+            "label": "App Platforms",
+            "value": "Android, iOS",
+            "isLink": false,
+            "linkUrl": ""
+          },
+          {
+            "label": "Customer Support Channels",
+            "value": "Live Chat, Email",
+            "isLink": false,
+            "linkUrl": ""
+          }
+        ],
+        "ctaText": "Explore More Details",
+        "description": "Discover the dynamic world of 4rabet, a leading international platform for sports betting and online casino games. Established in 2018, 4rabet caters to the vibrant markets of India and Asia, offering an array of betting options on over 30 sports, including cricket, football, and tennis. With an official Curacao license, the platform ensures a secure and fair gaming experience. Key benefits include high odds, support for INR and cryptocurrencies, swift payouts within 15 minutes to 24 hours, and a user-friendly mobile app for Android and iOS. Enjoy a rich selection of over 3000 casino games and a generous bonus program, all backed by 24/7 support in Hindi and English."
+      },
+      "typeSlug": "table"
+    },
+    {
+      "id": "block-1766521707951-92kr2hxku",
+      "order": 6,
+      "content": {
+        "items": [
+          {
+            "answer": "Чтобы зарегистрироваться на 4rabet, следуйте этим шагам:\n\n1. Зайдите на сайт 4rabet.\n2. Нажмите на кнопку \"Регистрация\".\n3. Заполните форму: укажите email или номер телефона, создайте пароль.\n4. Выберите валюту (например, INR).\n5. Подтвердите регистрацию, следуя инструкциям на email или в SMS.\n\nВот и всё! Теперь вы можете делать ставки и играть в казино.",
+            "question": "Как зарегистрироваться на 4rabet?"
+          },
+          {
+            "answer": "Чтобы пополнить счёт на 4rabet, войдите в свой аккаунт и перейдите в раздел \"Касса\" или \"Депозит\". Выберите удобный для вас способ пополнения — банковская карта, электронный кошелёк или криптовалюта. Введите сумму депозита и следуйте инструкциям на экране. Деньги обычно поступают на счёт мгновенно.",
+            "question": "Как пополнить счёт на 4rabet?"
+          },
+          {
+            "answer": "Чтобы вывести выигрыш с 4rabet, зайди в свой аккаунт и выбери раздел \"Вывод средств\". Выбери удобный для тебя способ, например, банковский перевод или электронный кошелёк. Укажи сумму и следуй инструкциям. Обычно вывод занимает от 15 минут до 24 часов.",
+            "question": "Как вывести выигрыш с 4rabet?"
+          }
+        ]
+      },
+      "typeSlug": "faq"
+    },
+    {
+      "id": "block-1766521744468-ha87333rw",
+      "order": 7,
+      "content": {
+        "tabs": [
+          {
+            "list": [
+              "Indian Premier League",
+              "Champions League",
+              "NBA",
+              "Premier League",
+              "La Liga",
+              "Serie A",
+              "Bundesliga"
+            ],
+            "image": "/images/c8f04844-6d2a-4ac4-b0ac-8198e713be9a.webp",
+            "label": "Live Bets",
+            "title": "Live Bets",
+            "ctaText": "PLACE BET ON LIVE BETS",
+            "description": "4RABET предлагает широкий выбор рынков для Live Bets, включая топовые турниры и лиги, такие как IPL, Premier League и другие популярные соревнования."
+          },
+          {
+            "list": [
+              "Indian Premier League",
+              "Champions League",
+              "NBA",
+              "Wimbledon",
+              "EPL",
+              "La Liga",
+              "Serie A"
+            ],
+            "image": "/images/caf88854-0952-4d63-9aac-5f09a092cc28.webp",
+            "label": "Real-Time",
+            "title": "Real-Time",
+            "ctaText": "PLACE BET ON REAL-TIME",
+            "description": "4RABET предлагает широкий выбор рынков для ставок в режиме реального времени, включая топовые турниры и лиги: крикет, футбол и теннис. Наслаждайтесь динамикой игры и делайте ставки, наблюдая за событиями в режиме live."
+          }
+        ]
+      },
+      "typeSlug": "tabs"
+    },
+    {
+      "id": "block-1766521932321-nc55zi9y6",
+      "order": 8,
+      "content": {
+        "steps": [
+          "Download the app",
+          "Create an account",
+          "Verify your details",
+          "Make a deposit",
+          "Claim your welcome bonus"
+        ],
+        "title": "Начни Играть в 3 Шага",
+        "description": "Просто следуйте этим шагам, чтобы начать играть в 4rabet."
+      },
+      "typeSlug": "steps"
+    },
+    {
+      "id": "block-1766521964079-rvyyybglx",
+      "order": 9,
+      "content": {
+        "title": "\"Скачай приложение 4rabet и играй в любое время!\"",
+        "phoneScreenBackImage": "/images/788ad67a-0885-40b9-ab8f-045814d7ebd9.webp",
+        "phoneScreenFrontImage": "/images/6da8dac2-0c7a-4af7-a793-028f20b8184f.webp"
+      },
+      "typeSlug": "apps"
+    },
+    {
+      "id": "block-1766522121536-upbitnokr",
+      "order": 10,
+      "content": {
+        "title": "Explore Our Features"
+      },
+      "typeSlug": "contentNav"
+    },
+    {
+      "id": "block-1766522380156-znvdyx9ia",
+      "order": 11,
+      "content": {
+        "body": "4rabet — это платформа, которая объединяет в себе спортивные ставки и онлайн-казино. Работая с 2018 года, она стала популярной в Индии и других странах Азии. Здесь можно найти ставки на более чем 30 видов спорта, включая крикет, футбол и теннис, а также киберспорт. Для любителей казино 4rabet предлагает разнообразие игр от известных провайдеров, таких как Evolution Gaming и NetEnt. Всё это доступно в удобном мобильном приложении, так что можно наслаждаться игрой в любое время и в любом месте.\n\nПлатформа поддерживает индийские рупии и криптовалюты, что делает депозиты и выплаты простыми и удобными. Кстати, деньги поступают очень быстро — от 15 минут до 24 часов. Для новых пользователей 4rabet предлагает приветственный бонус до 125,000 INR на первые четыре депозита, а также регулярные кэшбэки и акции. Если вдруг возникнут вопросы, служба поддержки всегда готова помочь, общаясь на хинди и английском языках.\n\nГлавное для 4rabet — это обеспечить безопасность и честность. Платформа имеет официальную лицензию Кюрасао и стремится к тому, чтобы каждый игрок получал удовольствие от игры. Если ты ищешь место, где можно насладиться ставками и азартными играми, 4rabet — отличный выбор.",
+        "heading": "Открой для себя мир азарта с 4rabet",
+        "variant": "light"
+      },
+      "typeSlug": "text"
+    },
+    {
+      "id": "block-1766522401772-u8qdbi8bh",
+      "order": 12,
+      "content": {
+        "text": "4rabet — это международная платформа для ставок и онлайн-казино, которая быстро завоевала популярность на азиатском рынке. Она предлагает пользователям из Индии и других стран Азии возможность делать ставки на более чем 30 видов спорта, включая такие популярные, как крикет, футбол и теннис. Также в арсенале платформы есть множество игр от известных провайдеров, таких как Evolution Gaming и Pragmatic Play. Это значит, что ты можешь попробовать свои силы не только в ставках, но и в огромном количестве слотов, настольных игр и развлечений с live-дилерами.\n\nСреди ключевых преимуществ 4rabet — официальная лицензия Кюрасао, что гарантирует честность и безопасность игры. Платформа поддерживает индийские рупии и криптовалюту, обеспечивая удобство финансовых операций. Процесс вывода средств прост и занимает от 15 минут до 24 часов. Кроме того, у платформы есть мобильное приложение для Android и iOS, что позволяет делать ставки в любое время и в любом месте. Для новых пользователей предусмотрен приветственный бонус до 125,000 INR на первые четыре депозита, а также кэшбэк до 10% и регулярные турниры, что делает игру ещё более захватывающей.",
+        "image": "/images/3386cd60-7366-43f3-b9ba-144aa2d19e9f.webp",
+        "title": "Максимум удовольствия с 4rabet",
+        "withBackground": "true"
+      },
+      "typeSlug": "textImage"
+    },
+    {
+      "id": "block-1766658287974-vhpjahsl8",
+      "order": 13,
+      "content": {
+        "title": "Отзывы наших пользователей",
+        "reviews": [
+          {
+            "date": "August 22, 2024",
+            "text": "Won a few bets, awesome!",
+            "author": "Odell Gerlach",
+            "rating": 5
+          },
+          {
+            "date": "January 9, 2024",
+            "text": "The best betting site I've used.",
+            "author": "Curtis Morar",
+            "rating": 5
+          },
+          {
+            "date": "January 4, 2024",
+            "text": "Good, but sometimes the app lags.",
+            "author": "Marcellus Morissette",
+            "rating": 4
+          },
+          {
+            "date": "January 30, 2024",
+            "text": "Safe, secure, and fun.",
+            "author": "Florencio Herzog",
+            "rating": 5
+          },
+          {
+            "date": "September 9, 2025",
+            "text": "Pretty solid, minor bugs here and there.",
+            "author": "Zaria Trantow",
+            "rating": 4
+          },
+          {
+            "date": "October 9, 2024",
+            "text": "Great experience, highly recommend.",
+            "author": "Hanna Johnston",
+            "rating": 5
+          },
+          {
+            "date": "July 23, 2024",
+            "text": "Best experience I've had with online betting.",
+            "author": "Virginia Koch",
+            "rating": 5
+          },
+          {
+            "date": "June 5, 2024",
+            "text": "Great for both beginners and pros.",
+            "author": "Pietro Block",
+            "rating": 5
+          },
+          {
+            "date": "August 18, 2024",
+            "text": "Incredible variety of games, loved it!",
+            "author": "Bertram Johnson",
+            "rating": 5
+          },
+          {
+            "date": "July 26, 2025",
+            "text": "The customer support is top-notch.",
+            "author": "Brandy Shanahan",
+            "rating": 5
+          },
+          {
+            "date": "January 7, 2025",
+            "text": "Can't get enough of the slots here!",
+            "author": "Jeromy Hammes-Williamson",
+            "rating": 5
+          },
+          {
+            "date": "April 24, 2024",
+            "text": "Great bonuses, keep it up!",
+            "author": "Elouise Hilpert",
+            "rating": 5
+          },
+          {
+            "date": "November 24, 2024",
+            "text": "I always find something new to try.",
+            "author": "Brent Hand",
+            "rating": 5
+          },
+          {
+            "date": "February 24, 2025",
+            "text": "Overall, a positive experience.",
+            "author": "Geraldine Parisian",
+            "rating": 4
+          },
+          {
+            "date": "February 14, 2024",
+            "text": "Amazing bonuses and promotions.",
+            "author": "Trevor Hagenes",
+            "rating": 5
+          },
+          {
+            "date": "January 20, 2024",
+            "text": "Amazing bonuses and promotions!",
+            "author": "Modesto Emmerich",
+            "rating": 5
+          },
+          {
+            "date": "March 27, 2025",
+            "text": "Everything works smoothly.",
+            "author": "Paolo Wisoky",
+            "rating": 5
+          },
+          {
+            "date": "August 9, 2025",
+            "text": "Good site, but room for improvement.",
+            "author": "Doris Nienow",
+            "rating": 4
+          },
+          {
+            "date": "March 9, 2024",
+            "text": "Exceptional! Can't get enough.",
+            "author": "Tony Gibson",
+            "rating": 5
+          },
+          {
+            "date": "March 19, 2025",
+            "text": "My go-to for cricket betting!",
+            "author": "Arch Carter-Homenick",
+            "rating": 5
+          },
+          {
+            "date": "April 28, 2024",
+            "text": "Highly recommend for sports enthusiasts.",
+            "author": "Tad Botsford",
+            "rating": 5
+          },
+          {
+            "date": "October 22, 2025",
+            "text": "Simply the best betting site around.",
+            "author": "Sibyl Buckridge",
+            "rating": 5
+          },
+          {
+            "date": "August 3, 2025",
+            "text": "Really impressed with the live betting options.",
+            "author": "Juana Mayer",
+            "rating": 5
+          },
+          {
+            "date": "March 28, 2024",
+            "text": "Seamless experience, no complaints.",
+            "author": "Elian Hamill",
+            "rating": 5
+          },
+          {
+            "date": "September 22, 2024",
+            "text": "Impressive variety of games!",
+            "author": "Morton Bradtke",
+            "rating": 5
+          },
+          {
+            "date": "November 15, 2025",
+            "text": "The best sportsbook I've come across.",
+            "author": "Mellie Hane",
+            "rating": 5
+          },
+          {
+            "date": "June 1, 2024",
+            "text": "Perfect for cricket lovers!",
+            "author": "Fiona Harris",
+            "rating": 5
+          },
+          {
+            "date": "May 19, 2025",
+            "text": "Some navigation issues, but decent overall.",
+            "author": "Kendrick Heathcote",
+            "rating": 4
+          },
+          {
+            "date": "February 12, 2024",
+            "text": "The bonus offers are fantastic!",
+            "author": "Justine Reichert",
+            "rating": 5
+          },
+          {
+            "date": "March 16, 2024",
+            "text": "One of the best for online casino games.",
+            "author": "Columbus Monahan",
+            "rating": 5
+          },
+          {
+            "date": "March 24, 2024",
+            "text": "Awesome bonuses and promotions.",
+            "author": "Laron Parisian",
+            "rating": 5
+          },
+          {
+            "date": "January 26, 2024",
+            "text": "Incredibly fun time playing here.",
+            "author": "Gerald Homenick",
+            "rating": 5
+          },
+          {
+            "date": "June 28, 2024",
+            "text": "Not bad, but some improvements needed.",
+            "author": "Otto Thiel-Reichel",
+            "rating": 4
+          },
+          {
+            "date": "September 11, 2024",
+            "text": "Decent platform with good odds.",
+            "author": "Isabel Hane",
+            "rating": 4
+          },
+          {
+            "date": "September 12, 2024",
+            "text": "Fantastic app, very user-friendly.",
+            "author": "Dallin Vandervort",
+            "rating": 5
+          },
+          {
+            "date": "May 31, 2025",
+            "text": "Excellent for cricket fans!",
+            "author": "Rosemary Thiel",
+            "rating": 5
+          },
+          {
+            "date": "July 7, 2025",
+            "text": "Fantastic bonuses and easy navigation!",
+            "author": "Braden Blick",
+            "rating": 5
+          },
+          {
+            "date": "December 29, 2024",
+            "text": "Super fast payouts, highly recommend.",
+            "author": "Abby Macejkovic",
+            "rating": 5
+          },
+          {
+            "date": "October 1, 2024",
+            "text": "Great service!",
+            "author": "Ernest Stokes-Crona",
+            "rating": 4
+          },
+          {
+            "date": "February 19, 2025",
+            "text": "Incredible variety in games.",
+            "author": "King Conroy",
+            "rating": 5
+          },
+          {
+            "date": "July 28, 2025",
+            "text": "5 stars for fast withdrawals!",
+            "author": "Samson Koch-Halvorson",
+            "rating": 5
+          },
+          {
+            "date": "October 7, 2024",
+            "text": "Some delays in response time.",
+            "author": "Hilton Johnson",
+            "rating": 4
+          },
+          {
+            "date": "July 5, 2025",
+            "text": "Interface could be improved.",
+            "author": "Ronny Mitchell",
+            "rating": 4
+          },
+          {
+            "date": "June 6, 2025",
+            "text": "Outstanding game selection.",
+            "author": "Garland Okuneva",
+            "rating": 5
+          },
+          {
+            "date": "December 9, 2024",
+            "text": "Loved the experience.",
+            "author": "Dexter Reichert",
+            "rating": 5
+          },
+          {
+            "date": "December 27, 2024",
+            "text": "Best in the market for sure!",
+            "author": "Della Jacobi",
+            "rating": 5
+          },
+          {
+            "date": "October 24, 2024",
+            "text": "A must-try for sports fans.",
+            "author": "London O'Kon",
+            "rating": 5
+          },
+          {
+            "date": "September 12, 2025",
+            "text": "My go-to place for betting now.",
+            "author": "Samara McGlynn",
+            "rating": 5
+          },
+          {
+            "date": "October 16, 2025",
+            "text": "Super fun and easy to use.",
+            "author": "Abigayle Gleason",
+            "rating": 5
+          },
+          {
+            "date": "November 1, 2025",
+            "text": "Always my go-to for online betting.",
+            "author": "Yoshiko Kuhn",
+            "rating": 5
+          },
+          {
+            "date": "February 14, 2024",
+            "text": "Decent platform, needs minor tweaks.",
+            "author": "Roxanne Greenfelder",
+            "rating": 4
+          },
+          {
+            "date": "June 1, 2025",
+            "text": "Never had so much fun betting online.",
+            "author": "Kiley Lynch",
+            "rating": 5
+          },
+          {
+            "date": "January 29, 2024",
+            "text": "Easy deposits and withdrawals, very smooth!",
+            "author": "Jaydon Mosciski",
+            "rating": 5
+          },
+          {
+            "date": "April 6, 2024",
+            "text": "Some features need polishing.",
+            "author": "Glenda Becker",
+            "rating": 4
+          },
+          {
+            "date": "September 16, 2025",
+            "text": "Would be perfect if it was faster.",
+            "author": "Jennie Upton",
+            "rating": 4
+          },
+          {
+            "date": "March 6, 2025",
+            "text": "Best platform for cricket fans!",
+            "author": "Clint Lakin",
+            "rating": 5
+          },
+          {
+            "date": "October 17, 2025",
+            "text": "Good odds and fair play.",
+            "author": "Sydni Purdy",
+            "rating": 5
+          },
+          {
+            "date": "July 9, 2024",
+            "text": "Loved the experience.",
+            "author": "Malcolm Cassin",
+            "rating": 5
+          },
+          {
+            "date": "September 12, 2024",
+            "text": "High odds make it worth it.",
+            "author": "Tito Schuppe",
+            "rating": 5
+          },
+          {
+            "date": "November 17, 2024",
+            "text": "Had a great time!",
+            "author": "Alvina Harber",
+            "rating": 4
+          },
+          {
+            "date": "August 14, 2024",
+            "text": "Love the quick payouts!",
+            "author": "Alyson Bradtke",
+            "rating": 5
+          },
+          {
+            "date": "August 24, 2025",
+            "text": "Great selection of games, a bit slow sometimes.",
+            "author": "Frances Mayert",
+            "rating": 4
+          },
+          {
+            "date": "May 6, 2025",
+            "text": "Top-notch app for betting!",
+            "author": "Vince Rohan",
+            "rating": 5
+          },
+          {
+            "date": "July 12, 2025",
+            "text": "Amazing! Best place for cricket bets.",
+            "author": "Jailyn Mitchell",
+            "rating": 5
+          },
+          {
+            "date": "November 4, 2024",
+            "text": "Quick withdrawals and responsive support.",
+            "author": "Conrad Runolfsdottir",
+            "rating": 5
+          },
+          {
+            "date": "March 27, 2025",
+            "text": "Love the mobile app!",
+            "author": "Jeanette Durgan",
+            "rating": 5
+          },
+          {
+            "date": "October 17, 2024",
+            "text": "Met my expectations.",
+            "author": "Jeanette Schinner",
+            "rating": 4
+          },
+          {
+            "date": "August 5, 2024",
+            "text": "Solid platform, occasional hiccups.",
+            "author": "Asia Moen",
+            "rating": 4
+          },
+          {
+            "date": "October 9, 2025",
+            "text": "Reliable and fun to use!",
+            "author": "Alexa Cremin",
+            "rating": 5
+          },
+          {
+            "date": "February 22, 2024",
+            "text": "Wide variety of games to choose from.",
+            "author": "Eriberto Farrell",
+            "rating": 5
+          },
+          {
+            "date": "May 31, 2025",
+            "text": "Fantastic app, very user-friendly.",
+            "author": "Bennett Hilll",
+            "rating": 5
+          },
+          {
+            "date": "May 13, 2024",
+            "text": "Simply the best!",
+            "author": "Kraig Ankunding",
+            "rating": 5
+          },
+          {
+            "date": "July 7, 2024",
+            "text": "Nice bonuses, but app could be faster.",
+            "author": "Sylvan Fisher-Reichert",
+            "rating": 4
+          },
+          {
+            "date": "September 29, 2024",
+            "text": "Solid platform, a few bugs here and there.",
+            "author": "Lonie Turner",
+            "rating": 4
+          },
+          {
+            "date": "October 2, 2024",
+            "text": "Fast payouts, very reliable.",
+            "author": "Jewel Kemmer",
+            "rating": 5
+          },
+          {
+            "date": "May 13, 2025",
+            "text": "Perfect for cricket enthusiasts.",
+            "author": "Raoul Will",
+            "rating": 5
+          },
+          {
+            "date": "July 13, 2024",
+            "text": "Enjoyable, but needs a few tweaks.",
+            "author": "Rosie Rodriguez",
+            "rating": 4
+          },
+          {
+            "date": "July 27, 2025",
+            "text": "Fantastic app, easy to use!",
+            "author": "Tatyana Predovic",
+            "rating": 5
+          },
+          {
+            "date": "February 29, 2024",
+            "text": "Could be better, but still good.",
+            "author": "Bartholome MacGyver",
+            "rating": 4
+          },
+          {
+            "date": "June 19, 2025",
+            "text": "Sleek design and easy to use.",
+            "author": "Nolan Mann-Hagenes",
+            "rating": 5
+          },
+          {
+            "date": "December 3, 2024",
+            "text": "Great service!",
+            "author": "Meggie Grimes",
+            "rating": 5
+          },
+          {
+            "date": "June 28, 2025",
+            "text": "A few hiccups, but overall good.",
+            "author": "Antone Mills",
+            "rating": 4
+          },
+          {
+            "date": "July 1, 2024",
+            "text": "Good experience, but occasional lags.",
+            "author": "Phyllis Cremin",
+            "rating": 4
+          },
+          {
+            "date": "September 23, 2025",
+            "text": "Really enjoy the live betting feature.",
+            "author": "Jerome Tremblay",
+            "rating": 5
+          },
+          {
+            "date": "May 4, 2025",
+            "text": "Solid experience, will use again.",
+            "author": "Kaelyn Mann",
+            "rating": 4
+          },
+          {
+            "date": "May 21, 2024",
+            "text": "Absolutely thrilled with the service!",
+            "author": "King Runolfsdottir",
+            "rating": 5
+          },
+          {
+            "date": "January 3, 2024",
+            "text": "Very good, some room for improvement.",
+            "author": "Betty Hills",
+            "rating": 4
+          },
+          {
+            "date": "March 9, 2024",
+            "text": "Platform's good, but can improve.",
+            "author": "Shemar Mueller",
+            "rating": 3
+          },
+          {
+            "date": "December 17, 2025",
+            "text": "Amazing range of games and sports.",
+            "author": "Zachariah McGlynn",
+            "rating": 5
+          },
+          {
+            "date": "June 27, 2024",
+            "text": "User-friendly and reliable.",
+            "author": "Naomi Green",
+            "rating": 5
+          },
+          {
+            "date": "December 13, 2024",
+            "text": "Exceeded my expectations!",
+            "author": "Lionel Goldner",
+            "rating": 5
+          },
+          {
+            "date": "October 20, 2025",
+            "text": "Solid choice for online gaming.",
+            "author": "Lia Leannon",
+            "rating": 5
+          },
+          {
+            "date": "November 13, 2025",
+            "text": "Absolutely love the live betting feature.",
+            "author": "Bernard Gorczany",
+            "rating": 5
+          },
+          {
+            "date": "December 1, 2025",
+            "text": "Loved the experience.",
+            "author": "Keegan Bernier",
+            "rating": 5
+          },
+          {
+            "date": "March 3, 2024",
+            "text": "Top-notch gaming experience!",
+            "author": "Justine Okuneva",
+            "rating": 5
+          },
+          {
+            "date": "February 7, 2024",
+            "text": "Great service!",
+            "author": "Virginie Greenfelder-Quitzon",
+            "rating": 4
+          },
+          {
+            "date": "July 2, 2025",
+            "text": "Good odds, but app could be faster.",
+            "author": "Aric Heaney",
+            "rating": 4
+          },
+          {
+            "date": "October 31, 2024",
+            "text": "Never had so much fun betting!",
+            "author": "Colt Hauck",
+            "rating": 5
+          },
+          {
+            "date": "February 13, 2025",
+            "text": "Highly recommend for sports lovers.",
+            "author": "Mason Kessler",
+            "rating": 5
+          },
+          {
+            "date": "March 13, 2024",
+            "text": "Support team is very helpful.",
+            "author": "Adela Little",
+            "rating": 5
+          },
+          {
+            "date": "May 16, 2025",
+            "text": "Overall, quite satisfied with the service.",
+            "author": "Armand Gislason-Heaney",
+            "rating": 4
+          },
+          {
+            "date": "October 18, 2024",
+            "text": "Impressed with the customer support.",
+            "author": "Karina Pfeffer",
+            "rating": 5
+          },
+          {
+            "date": "March 31, 2025",
+            "text": "Quick withdrawals, great service.",
+            "author": "Haleigh Harber",
+            "rating": 5
+          },
+          {
+            "date": "August 19, 2025",
+            "text": "Top-notch customer support.",
+            "author": "Eulalia Schulist",
+            "rating": 5
+          },
+          {
+            "date": "July 19, 2024",
+            "text": "Enjoyed the live casino games.",
+            "author": "Nina Hayes",
+            "rating": 5
+          },
+          {
+            "date": "November 24, 2024",
+            "text": "A few connection issues, but still good.",
+            "author": "Liam Bins",
+            "rating": 4
+          },
+          {
+            "date": "November 7, 2024",
+            "text": "Decent overall, some glitches though.",
+            "author": "Amira Dickens",
+            "rating": 3
+          },
+          {
+            "date": "January 18, 2024",
+            "text": "Nice features, but a bit slow at times.",
+            "author": "Savion Skiles",
+            "rating": 4
+          },
+          {
+            "date": "March 26, 2024",
+            "text": "Fast payouts, couldn't be happier!",
+            "author": "Kaelyn Jaskolski",
+            "rating": 5
+          },
+          {
+            "date": "January 17, 2025",
+            "text": "Interface could be improved.",
+            "author": "Lenna Rutherford",
+            "rating": 4
+          },
+          {
+            "date": "August 22, 2025",
+            "text": "5 stars! Amazing platform.",
+            "author": "Frederick Gerlach",
+            "rating": 5
+          },
+          {
+            "date": "September 17, 2024",
+            "text": "Amazing offers and features every day!",
+            "author": "Floyd Hauck",
+            "rating": 5
+          },
+          {
+            "date": "May 26, 2025",
+            "text": "Highly recommend for all bettors.",
+            "author": "Quinten Considine",
+            "rating": 5
+          },
+          {
+            "date": "April 8, 2025",
+            "text": "Customer support was top-notch!",
+            "author": "Rolando Osinski-Ryan",
+            "rating": 5
+          },
+          {
+            "date": "October 26, 2024",
+            "text": "Easy to deposit and withdraw.",
+            "author": "Dennis Murphy",
+            "rating": 5
+          },
+          {
+            "date": "June 27, 2024",
+            "text": "Fantastic user experience.",
+            "author": "Jacinthe Nader",
+            "rating": 5
+          },
+          {
+            "date": "November 2, 2025",
+            "text": "Impressed with the variety in slots.",
+            "author": "Alexandra Simonis-Lueilwitz",
+            "rating": 5
+          },
+          {
+            "date": "November 15, 2024",
+            "text": "Withdrawal took a little longer than expected.",
+            "author": "Jackeline Howell",
+            "rating": 4
+          },
+          {
+            "date": "November 23, 2024",
+            "text": "Enjoyed the live dealer games.",
+            "author": "Maurine Blanda",
+            "rating": 5
+          },
+          {
+            "date": "September 6, 2024",
+            "text": "Exciting live betting options.",
+            "author": "Addie Rohan",
+            "rating": 5
+          }
+        ],
+        "description": "В этом разделе вы найдёте отзывы от пользователей 4rabet, которые делятся своим опытом ставок на спорт и игрой в онлайн-казино. Узнайте о впечатлениях других игроков, их победах и рекомендациях. Мы ценим ваше мнение и стремимся сделать ваш игровой опыт ещё лучше!"
+      },
+      "typeSlug": "reviews"
+    }
+  ],
+  "seo": {
+    "title": "4RABET",
+    "description": "4RABET description",
+    "h1": "4RABET",
+    "robots": "index-follow",
+    "canonical": "https://4rabetapk.app/",
+    "ogTitle": "4RABET",
+    "ogDescription": "4RABET description",
+    "ogImage": "",
+    "robotsTxt": "User-agent: *\nDisallow: /admin\nSitemap: https://example.com/sitemap.xml",
+    "schemaJsonLd": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"Organization\",\n  \"name\": \"4RABET\",\n  \"url\": \"https://4rabet.example.com\"\n}"
+  },
+  "brand": {
+    "name": "4RABET",
+    "logo": "/images/ccf34207-d829-4f90-a84a-94b9726c4a4d.webp",
+    "favicon": "/images/6ea7d485-bdb7-4e16-b4ee-e84b510eed31.ico",
+    "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQg_Lj-AwA3TKS-FSwZ8c8V0zDIA4cnGrMGz0tGfAzakmcYhWr6ndm6EXpSrYYXCprXW9d6&s=10",
+    "promoCode": "TOP_NAEB",
+    "descriptionForAi": "4rabet - это международная букмекерская компания и онлайн-казино, основанная в 2018 году, которая специализируется на рынке Индии и других стран Азии. Платформа предлагает широкий спектр спортивных ставок (крикет, футбол, теннис, киберспорт и 30+ видов спорта), живые ставки в реальном времени, онлайн-казино с более чем 3000 игр от ведущих провайдеров (Evolution Gaming, Pragmatic Play, NetEnt), слоты, настольные игры, live-дилеров. Ключевые преимущества: официальная лицензия Кюрасао, высокие коэффициенты на крикет и другие популярные в Индии виды спорта, поддержка индийских рупий (INR) и криптовалют, быстрые выплаты (от 15 минут до 24 часов), мобильное приложение для Android и iOS, круглосуточная поддержка на хинди и английском языках. Бренд известен щедрой бонусной программой: приветственный бонус до 125,000 INR на первые четыре депозита, кэшбэк до 10%, еженедельные турниры и акции. Целевая аудитория: пользователи 18+ из Индии, Бангладеш, Пакистана и других азиатских стран, интересующиеся спортивными ставками (особенно на крикет) и азартными играми. Тон общения: дружелюбный, динамичный, с акцентом на выигрыши и эмоции от игры. Основные ценности бренда: безопасность, честность, быстрые выплаты, инновации, клиентоориентированность.",
+    "primaryColor": "",
+    "secondaryColor": "",
+    "accentColor": "",
+    "bonuses": [
+      {
+        "id": "bonus_1",
+        "type": "welcome",
+        "label": "bonus_1 лейбл",
+        "title": "bonus_1 название",
+        "isMain": true,
+        "conditions": "bonus_1 вейджер",
+        "description": "bonus_1 описание"
+      },
+      {
+        "id": "bonus_2",
+        "type": "freespins",
+        "label": "bonus_2 лейбл",
+        "title": "bonus_2 название",
+        "isMain": false,
+        "conditions": "bonus_2 вайджер",
+        "description": "bonus_2 описание"
+      }
+    ]
+  },
+  "theme": {
+    "primaryColor": "#3b82f6",
+    "secondaryColor": "#1976D2",
+    "accentColor": "#f59e0b",
+    "textColor": "#ffffff",
+    "borderColor": "#E0E0E0",
+    "backgroundColor": "#0f172a",
+    "backgroundAltColor": "#122640",
+    "textSecondaryColor": "#7198bf"
+  },
+  "customCode": {
+    "head": "",
+    "body": ""
+  }
+}
